@@ -1,0 +1,9 @@
+Problem Instance: 9
+Number of jobs: 10
+Number of families: 2
+Tau: 0.4
+R: 0.4
+Processing times: [234, 216, 216, 156, 96, 198, 234, 342, 90, 99]
+Due dates: [1317, 1447, 1146, 984, 1281, 1670, 1441, 1162, 1677, 1134]
+Setup times: [[0, 86], [59, 0]]
+Families: [1, 1, 1, 0, 0, 1, 0, 1, 0, 1]
