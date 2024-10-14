@@ -6,7 +6,7 @@ File Structure Description
 Each instance file contains the following information:
 
 # Problem Instance: Instance number
-Number of jobs: Number of jobs in the instance\n
+Number of jobs: Number of jobs in the instance
 Number of families: Number of job families
 Tau (τ): Due date-related parameter
 R: Due date-related parameter
