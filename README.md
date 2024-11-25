@@ -2,10 +2,14 @@
 
 This repository provides benchmark datasets used in the study "Minimizing Total Tardiness for the Single Machine Scheduling Problem with Sequence-Dependent Family Setup Times via Deep Reinforcement Learning." These datasets are specifically designed to evaluate algorithms for solving single machine scheduling problems while minimizing total tardiness, considering sequence-dependent family setup times.
 
-File Structure Description
-Each instance file contains the following information:
-
-# Problem Instance: Instance number
+# Repository Structure
+Dataset Directory: /dataset
+Contains all benchmark instances.
+Subdirectories may include:
+  loose_duedate/
+  tight_duedate/
+  
+## Problem Instance: Instance number
 Number of jobs: Number of jobs in the instance
 Number of families: Number of job families
 Tau (τ): Due date-related parameter
