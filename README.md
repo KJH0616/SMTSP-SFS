@@ -1,6 +1,6 @@
-# Single-Machine-Scheduling
+# Dataset-SMTSP-SFS
 
-This directory contains scheduling problem instances used in the paper "Minimizing Total Tardiness for the Single Machine Scheduling Problem with Sequence-Dependent Family Setup Times via Deep Reinforcement Learning." Each instance file follows the format outlined below.
+This repository provides benchmark datasets used in the study "Minimizing Total Tardiness for the Single Machine Scheduling Problem with Sequence-Dependent Family Setup Times via Deep Reinforcement Learning." These datasets are specifically designed to evaluate algorithms for solving single machine scheduling problems while minimizing total tardiness, considering sequence-dependent family setup times.
 
 File Structure Description
 Each instance file contains the following information:
