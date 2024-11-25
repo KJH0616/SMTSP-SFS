@@ -4,7 +4,7 @@ This repository provides benchmark datasets used in the study "Minimizing Total 
 
 ## Repository Structure
 * Dataset Directory: /dataset
-  Contains all benchmark instances.
+  <br/>Contains all benchmark instances.
 * Subdirectories may include:
   loose_duedate/
   tight_duedate/
