@@ -5,8 +5,8 @@ This repository provides benchmark datasets used in the study "Minimizing Total 
 ## Repository Structure
 * Dataset Directory: 
   * Contains all the benchmark datasets organized by due date conditions
-  * Loose Due date/
-  * Tight Due date/
+  * /Loose Due date
+  * /Tight Due date
 
 * Subdirectories:
   * The datasets are categorized based on the number of jobs in each instance.
