@@ -9,20 +9,21 @@ The datasets are categorized based on due date conditions:
   * Tight Due date
 
 ### Subdirectories
-  Each dataset directory under each due date condition contains subdirectories named based on the number of jobs and families in each dataset:
+Each dataset directory under each due date condition contains subdirectories named based on the number of jobs and families in each dataset:
   * Example: J100_F13 indicates instances with 100 jobs and 13 families
   * Each subdirectory contains 10 problem instances
   
 ## Problem Instance Description
-* Problem Instance: Identifier for the specific dataset
-* Number of jobs: Number of jobs in the instance
-* Number of families: Number of job families
-* Tau (τ): A parameter related to the due date tightness
-* R: A parameter controlling the due date range
-* Processing times: An array of processing times for each job
-* Due dates: An array of due dates for each job
-* Setup times: A matrix of setup times between jobs belonging to different families
-* Families: An array indicating the family to which each job belongs
+Each problem instance includes the following attributes:
+ * Problem Instance: Identifier for the specific dataset
+ * Number of jobs: Number of jobs in the instance
+ * Number of families: Number of job families
+ * Tau (τ): A parameter related to the due date tightness
+ * R: A parameter controlling the due date range
+ * Processing times: An array of processing times for each job
+ * Due dates: An array of due dates for each job
+ * Setup times: A matrix of setup times between jobs belonging to different families
+ * Families: An array indicating the family to which each job belongs
 
 ### Example File Details
 * Processing times: Time taken to complete each job.
