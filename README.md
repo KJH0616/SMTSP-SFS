@@ -12,6 +12,7 @@ This repository provides benchmark datasets used in the study "Minimizing Total 
   * The datasets are categorized based on the number of jobs in each instance.
   
 ## Problem Instance Description
+* Problem Instance: Identifier for the specific dataset
 * Number of jobs: Number of jobs in the instance
 * Number of families: Number of job families
 * Tau (τ): A parameter related to the due date tightness
